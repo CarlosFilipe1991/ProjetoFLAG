@@ -1,0 +1,19 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .homepage-title {
+        height: 400px;
+        width: 400px;
+        margin-bottom: 80px;
+      }
+      
+    .start-game-btn {
+        background-color: #ca0000;
+        height: 100px;
+        width: 100%;
+        font-size: 50px;
+    }
+}

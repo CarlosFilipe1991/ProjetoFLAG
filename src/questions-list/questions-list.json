@@ -1,0 +1,291 @@
+[
+  {
+    "questionText": "Quem realizou o filme Pulp Fiction?",
+    "answerOptions": [
+      {"answerText": "Steven Spielberg", "isCorrect": false},
+      {"answerText": "Christopher Nolan", "isCorrect": false},
+      {"answerText": "Quentin Tarantino", "isCorrect": true},
+      {"answerText": "Wes Craven", "isCorrect": false}
+    ]    
+  },
+  {
+    "questionText": "Qual o filme spin off da série Breaking Bad?",
+    "answerOptions": [
+      {"answerText": "El Camino", "isCorrect": true},
+      {"answerText": "Deadpool", "isCorrect": false},
+      {"answerText": "Better Call Saul", "isCorrect": false},
+      {"answerText": "Bates Motel", "isCorrect": false}
+    ]    
+  },
+  {
+    "questionText": "Qual o género filmográfico do filme 'The good, the bad and the ugly'?",
+    "answerOptions": [
+      {"answerText": "Drama", "isCorrect": false},
+      {"answerText": "Western", "isCorrect": true},
+      {"answerText": "Terror", "isCorrect": false},
+      {"answerText": "Comédia", "isCorrect": false}
+    ]    
+  },
+  {
+    "questionText": "Em que edifício se desenrola o filme 'Psycho'?",
+    "answerOptions": [
+      {"answerText": "Hospital", "isCorrect": false},
+      {"answerText": "Tribunal", "isCorrect": false},
+      {"answerText": "Motel", "isCorrect": true},
+      {"answerText": "Aeroporto", "isCorrect": false}
+    ]    
+  },
+  {
+    "questionText": "Qual o nome da bola que o actor Tom Hanks lhe dá no filme 'O Náufrago'?",
+    "answerOptions": [
+      { "answerText": "John", "isCorrect": false },
+      { "answerText": "Wilson", "isCorrect": true },
+      { "answerText": "Fred", "isCorrect": false },
+      { "answerText": "Joseph", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Qual destes filmes é do realizador Christopher Nolan?",
+    "answerOptions": [
+      { "answerText": "The Godfather", "isCorrect": false },
+      { "answerText": "Inception", "isCorrect": true },
+      { "answerText": "Seven", "isCorrect": false },
+      { "answerText": "Fight Club", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Qual o filme com mais prémios na história dos Oscares?",
+    "answerOptions": [
+      { "answerText": "Forrest Gump", "isCorrect": false },
+      { "answerText": "Ben-hur", "isCorrect": false },
+      { "answerText": "Titanic", "isCorrect": true },
+      { "answerText": "Senhor dos Anéis", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Quantos filmes tem a franquia 'Terminator'?",
+    "answerOptions": [
+      { "answerText": "2", "isCorrect": false },
+      { "answerText": "6", "isCorrect": true },
+      { "answerText": "3", "isCorrect": false },
+      { "answerText": "4", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Qual o ano de lançamento do filme 'Star Wars'?",
+    "answerOptions": [
+      { "answerText": "1985", "isCorrect": false },
+      { "answerText": "1977", "isCorrect": true },
+      { "answerText": "1981", "isCorrect": false },
+      { "answerText": "1971", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "A família de Vito Corleone é originária de que zona de itália?",
+    "answerOptions": [
+      { "answerText": "Sardenha", "isCorrect": false },
+      { "answerText": "Milão", "isCorrect": false },
+      { "answerText": "Nápoles", "isCorrect": false },
+      { "answerText": "Sicília", "isCorrect": true }
+    ]
+  },
+     {
+    "questionText": "Qual o actor principal do filme 'Scarface'?",
+    "answerOptions": [
+      { "answerText": "Steven Bauer", "isCorrect": false },
+      { "answerText": "Ray Liotta", "isCorrect": false },
+      { "answerText": "Robert de Niro", "isCorrect": false },
+      { "answerText": "Al Pacino", "isCorrect": true }
+    ]
+  },
+    {
+    "questionText": "Com que filme Steven Spielberg ganhou o seu primeiro oscar como melhor realizador?",
+    "answerOptions": [
+      { "answerText": "A lista de Schindler", "isCorrect": true },
+      { "answerText": "O resgate do soldado Ryan", "isCorrect": false },
+      { "answerText": "Jurassic Park", "isCorrect": false },
+      { "answerText": "Indiana Jones", "isCorrect": false }
+    ]
+  },
+    {
+    "questionText": "Qual dos atores não possui um Oscar??",
+    "answerOptions": [
+      { "answerText": "Ben Affleck", "isCorrect": false },
+      { "answerText": "Hugh Jackman", "isCorrect": true },
+      { "answerText": "Leonardo Di Caprio", "isCorrect": false },
+      { "answerText": "Denzel Washington", "isCorrect": false }
+    ]
+  },
+    {
+    "questionText": "Em que edifício se passa o filme 'The Shinning'?",
+    "answerOptions": [
+      { "answerText": "Fábrica Abandonada", "isCorrect": false },
+      { "answerText": "Casa Assombrada", "isCorrect": false },
+      { "answerText": "Hospital", "isCorrect": false },
+      { "answerText": "Hotel", "isCorrect": true }
+    ]
+  },
+    {
+    "questionText": "Em que área de negócio a personagem de 'There Will Be Blood' se dedicava?",
+    "answerOptions": [
+      { "answerText": "Serviço de Detective", "isCorrect": false },
+      { "answerText": "Venda de Armas", "isCorrect": false },
+      { "answerText": "Extração de Petróleo", "isCorrect": true },
+      { "answerText": "Construção Civil", "isCorrect": false }
+    ]
+  },
+    {
+    "questionText": "Em que tipo de loja trabalhava a namorada do boxista 'Rocky'?",
+    "answerOptions": [
+      { "answerText": "Loja de Armas", "isCorrect": false },
+      { "answerText": "Supermercado", "isCorrect": false },
+      { "answerText": "Café", "isCorrect": false },
+      { "answerText": "Loja de Animais", "isCorrect": true }
+    ]
+  },
+    {
+    "questionText": "Que atriz portuguesa participa no filme 'O Esquadrão Suicida'??",
+    "answerOptions": [
+      { "answerText": "Maria de Medeiros", "isCorrect": false },
+      { "answerText": "Alba Baptista", "isCorrect": false },
+      { "answerText": "Daniela Melchior", "isCorrect": true },
+      { "answerText": "Daniela Ruah", "isCorrect": false }
+    ]
+  },
+    {
+    "questionText": "Qual o país de origem do filme 'Fabuloso Destino de Amélie' ?",
+    "answerOptions": [
+      { "answerText": "Argentina", "isCorrect": false },
+      { "answerText": "Espanha", "isCorrect": false },
+      { "answerText": "Itália", "isCorrect": false },
+      { "answerText": "França", "isCorrect": true }
+    ]
+  },
+    {
+    "questionText": "'Anabelle' e 'The Nun' são um Spin Off de que filme?",
+    "answerOptions": [
+      { "answerText": "The Ring", "isCorrect": false },
+      { "answerText": "Insidious", "isCorrect": false },
+      { "answerText": "Heriditary", "isCorrect": false },
+      { "answerText": "The Conjuring", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Qual o realizor do filme de 2017 'Get Out'?",
+    "answerOptions": [
+      { "answerText": "Guillermo del Toro", "isCorrect": false },
+      { "answerText": "James Wan", "isCorrect": false },
+      { "answerText": "Jordan Peele", "isCorrect": true },
+      { "answerText": "Tim Story", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Onde foram gravados os filmes 'Senhor dos Anéis' ?",
+    "answerOptions": [
+      { "answerText": "Austrália", "isCorrect": false },
+      { "answerText": "Nova Zelândia", "isCorrect": true },
+      { "answerText": "Escócia", "isCorrect": false },
+      { "answerText": "África do Sul", "isCorrect": false }
+    ]
+  },
+ {
+    "questionText": "Freddy Krueger usava uma camisolas às riscas com que cores?",
+    "answerOptions": [
+      { "answerText": "Vermelho e Verde", "isCorrect": true },
+      { "answerText": "Vermelho e Azul", "isCorrect": false },
+      { "answerText": "Laranja e Castanho", "isCorrect": false },
+      { "answerText": "Laranja e Verde", "isCorrect": false }
+    ]
+  },
+ {
+    "questionText": "Que objecto estava em várias cenas de 'Fight Club'?",
+    "answerOptions": [
+      { "answerText": "Caixa de Pizza", "isCorrect": false },
+      { "answerText": "Garrafa de Pepsi", "isCorrect": false },
+      { "answerText": "Lata de Coca-Cola", "isCorrect": false },
+      { "answerText": "Copo da Starbucks", "isCorrect": true }
+    ]
+  },
+ {
+    "questionText": "Se quiser ver os filmes da Marvel em ordem cronológica, que filmes deverá ver primeiro?",
+    "answerOptions": [
+      { "answerText": "Captain America: The First Avenger ", "isCorrect": true },
+      { "answerText": "Doctor Strange", "isCorrect": false },
+      { "answerText": "Iron Man", "isCorrect": false },
+      { "answerText": "Captain Marvel", "isCorrect": false }
+    ]
+  },
+ {
+    "questionText": "Que actor nunca interpretou a personagem 'Joker'?",
+    "answerOptions": [
+      { "answerText": "Jack Nicholson", "isCorrect": false },
+      { "answerText": "Sean Penn", "isCorrect": true },
+      { "answerText": "Mark Hamil", "isCorrect": false },
+      { "answerText": "Jared Leto", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Em que filme a famosa frase 'O que está dentro da caixa?' é dita?",
+    "answerOptions": [
+      { "answerText": "Speed", "isCorrect": false },
+      { "answerText": "Pulp Fiction", "isCorrect": false },
+      { "answerText": "Se7en", "isCorrect": true },
+      { "answerText": "Reservoir Dogs", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Com que idade se estreou Natalie Portman no cinema com o filme'Léon: The Professional'?",
+    "answerOptions": [
+      { "answerText": "10 anos", "isCorrect": false },
+      { "answerText": "9 anos", "isCorrect": false },
+      { "answerText": "12 anos", "isCorrect": true },
+      { "answerText": "8 anos", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Qual a actor principal do filme 'O Silêncio dos Inocentes'?",
+    "answerOptions": [
+      { "answerText": "Anthony Hopkins", "isCorrect": true },
+      { "answerText": "Robert de Niro", "isCorrect": false },
+      { "answerText": "Jack Nicholson", "isCorrect": false },
+      { "answerText": "Marlon Brando", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Que famosa frase ficou conhecida no filme 'Jaws'?",
+    "answerOptions": [
+      { "answerText": "You know, a thing about a shark, he’s got…lifeless eyes. Black eyes, like a doll’s eyes!", "isCorrect": false },
+      { "answerText": "All this machine does is swim, and eat, and make little sharks.", "isCorrect": false },
+      { "answerText": "I used to hate the water.", "isCorrect" : false },
+      { "answerText": "You’re gonna need a bigger boat.", "isCorrect": true }
+    ]
+  },
+{
+    "questionText": "Em que ano foi lançado o filme 'Die Hard'?",
+    "answerOptions": [
+      { "answerText": "1988", "isCorrect": true },
+      { "answerText": "1990", "isCorrect": false },
+      { "answerText": "1989", "isCorrect": false },
+      { "answerText": "1986", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Que filme Jim Carrey e Kate Winslet são um casal separado que procura apagar memórias um do outro??",
+    "answerOptions": [
+      { "answerText": "Memories ", "isCorrect": false },
+      { "answerText": "The Truman Show", "isCorrect": false },
+      { "answerText": "Eternal Sunshine of the Spotless Mind", "isCorrect": true },
+      { "answerText": "It Had to Be You", "isCorrect": false }
+    ]
+  },
+{
+    "questionText": "Que atriz tem o maior número de óscares da história?",
+    "answerOptions": [
+      { "answerText": "Meryl Streep", "isCorrect": false },
+      { "answerText": "Katharine Hepburn", "isCorrect": true },
+      { "answerText": "Elizabeth Taylor", "isCorrect": false },
+      { "answerText": "Ingrid Bergman", "isCorrect": false }
+    ]
+  }
+
+]

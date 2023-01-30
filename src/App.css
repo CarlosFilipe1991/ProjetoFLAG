@@ -1,0 +1,39 @@
+* {
+  font-family: "times", cursive, sans-serif;
+  color: #ffffff;
+}
+
+body {
+  background-color: #fe7000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+button {
+  font-size: 20px;
+  font-family: 'Times';
+  color: #ecb923;
+  background-color: #252d4a;
+  border-radius: 15px;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #ecb923;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:rgba(230, 154, 12, 0.614);
+}
+
+button:focus {
+  outline: none;
+}
+
+button svg {
+  margin-right: 5px;
+}

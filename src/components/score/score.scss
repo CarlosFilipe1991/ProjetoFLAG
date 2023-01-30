@@ -1,0 +1,33 @@
+.final-page {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+
+  .score-section {
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+  }
+  
+  .btn-section {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+    .restart-btn  {
+      background-color: red;
+    }
+    
+    .exit-btn  {
+      background-color: green;
+    }
+    
+    .score-btn {
+      display: flex;
+      align-items: center;
+      height: 60px;
+    }
+  }
+}
